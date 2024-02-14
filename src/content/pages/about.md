@@ -2,42 +2,31 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
-  image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+  description: Learn more about the person in this website.
 ---
 
-![Alt text for image](/about.jpeg)
+## Aswin - Web Developer
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
-
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I'm Aswin Ashok, a passionate web developer residing in Thrissur. I started learning coding from a open source curriculum called [The Odin Project](https://theodinproject.com) myself.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and libraries such as **React.js**, **Tailwind** for dynamic and interactive user interfaces. On the server side, I'm well-versed in **Node.js**, **Express.js** and have experience with database management systems like **MongoDB**.
 
-## Innovation and Problem-Solving
+## Experience
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+- **Apr 2023 - Aug 2023** (5 months) <br/> Technical Consultant - [Applied Payments Technology](https://www.appliedpaymentstech.com/)
 
-## Global Perspective, Local Impact
+## Self-taught
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+- **Aug 2023 - Jan 2024** <br/> [The Odin Project](https://theodinproject.com) <br/> Full Stack - MERN
 
-## Continuous Learning
+## Education
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
-
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+- **Jan 2022 - Present** <br/> Bachelor in Computer Application (BCA) - IGNOU
+- **Feb 2022 - Feb 2023** <br/> Diploma in Cloud Computing - Jetking Learning Centre Kochi
+- **Jul 2018 - Sep 2021** <br/> Diploma in Mechatronics - NTTF Coimbatore
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+I'm looking for jobs in **MERN Stack (MongoDB, Express, React.js, Node)** for full-time basis. Contact me at **[aswinashok110@gmail.com](mailto:aswinashok110@gmail.com)**
